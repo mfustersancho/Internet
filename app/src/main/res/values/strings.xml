@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internet</string>
+    <string name="url_to_download">URL to download:</string>
+    <string name="url">https://justpaste.it/</string>
+    <string name="download">Download</string>
+    <string name="enter_the_path">Enter the path</string>
+</resources>
